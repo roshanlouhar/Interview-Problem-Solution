@@ -1,0 +1,6 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.pdb

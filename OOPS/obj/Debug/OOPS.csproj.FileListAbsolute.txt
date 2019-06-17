@@ -1,0 +1,6 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\bin\Debug\OOPS.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\bin\Debug\OOPS.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\bin\Debug\OOPS.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\obj\Debug\OOPS.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\OOPS\obj\Debug\OOPS.pdb

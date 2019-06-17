@@ -1,0 +1,6 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.pdb

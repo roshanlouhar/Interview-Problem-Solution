@@ -1,0 +1,6 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug\CSharpDataStructureLibrary.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug\CSharpDataStructureLibrary.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug\CSharpDataStructureLibrary.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.pdb

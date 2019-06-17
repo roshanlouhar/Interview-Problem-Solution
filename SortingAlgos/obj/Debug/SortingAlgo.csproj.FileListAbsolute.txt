@@ -1,0 +1,6 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\obj\Debug\SortingAlgo.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\obj\Debug\SortingAlgos.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\obj\Debug\SortingAlgos.pdb
