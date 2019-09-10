@@ -1,0 +1,9 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\bin\Debug\ProjectUtilityLibrary.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\bin\Debug\ProjectUtilityLibrary.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\bin\Debug\ProjectUtilityLibrary.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\obj\Debug\ProjectUtilityLibrary.csprojAssemblyReference.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\obj\Debug\ProjectUtilityLibrary.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\obj\Debug\ProjectUtilityLibrary.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\obj\Debug\ProjectUtilityLibrary.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\bin\Debug\ProjectUtilityLibrary.exe.CodeAnalysisLog.xml
+C:\DATA\WorkCode\Interview-Problem-Solution\ProjectUtilityLibrary\bin\Debug\ProjectUtilityLibrary.exe.lastcodeanalysissucceeded

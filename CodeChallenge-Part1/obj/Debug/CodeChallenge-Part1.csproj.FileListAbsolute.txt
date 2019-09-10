@@ -1,0 +1,7 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\bin\Debug\CodeChallenge-Part1.exe.config
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\bin\Debug\CodeChallenge-Part1.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\bin\Debug\CodeChallenge-Part1.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\obj\Debug\CodeChallenge-Part1.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\obj\Debug\CodeChallenge-Part1.exe
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\obj\Debug\CodeChallenge-Part1.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\CodeChallenge-Part1\obj\Debug\CodeChallenge-Part1.csprojAssemblyReference.cache

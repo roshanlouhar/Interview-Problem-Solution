@@ -19,3 +19,4 @@ C:\DATA\WorkCode\Interview-Problem-Solution\BinaryTree\obj\Debug\netcoreapp2.1\B
 C:\DATA\WorkCode\Interview-Problem-Solution\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
 C:\DATA\WorkCode\Interview-Problem-Solution\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
 C:\DATA\WorkCode\Interview-Problem-Solution\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache

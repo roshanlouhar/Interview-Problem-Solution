@@ -4,3 +4,5 @@ C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.
 C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.pdb
 C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\obj\Debug\SortingAlgos.exe
 C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\obj\Debug\SortingAlgos.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.exe.CodeAnalysisLog.xml
+C:\DATA\WorkCode\Interview-Problem-Solution\SortingAlgos\bin\Debug\SortingAlgos.exe.lastcodeanalysissucceeded
