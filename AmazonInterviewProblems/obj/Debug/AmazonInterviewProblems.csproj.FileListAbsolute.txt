@@ -4,5 +4,4 @@ C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\Am
 C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.pdb
 C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.exe
 C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.pdb
-C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.exe.CodeAnalysisLog.xml
-C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\bin\Debug\AmazonInterviewProblems.exe.lastcodeanalysissucceeded
+C:\DATA\WorkCode\Interview-Problem-Solution\AmazonInterviewProblems\obj\Debug\AmazonInterviewProblems.csprojAssemblyReference.cache

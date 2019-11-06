@@ -4,5 +4,4 @@ C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debu
 C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.pdb
 C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.exe
 C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.pdb
-C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.exe.CodeAnalysisLog.xml
-C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\bin\Debug\HackerRankInterviewProblems.exe.lastcodeanalysissucceeded
+C:\DATA\WorkCode\Interview-Problem-Solution\HackerRankInterviewProblems\obj\Debug\HackerRankInterviewProblems.csprojAssemblyReference.cache

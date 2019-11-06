@@ -1,0 +1,11 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\bin\Debug\netcoreapp2.1\InterviewChallenges.deps.json
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\bin\Debug\netcoreapp2.1\InterviewChallenges.runtimeconfig.json
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\bin\Debug\netcoreapp2.1\InterviewChallenges.runtimeconfig.dev.json
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\bin\Debug\netcoreapp2.1\InterviewChallenges.dll
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\bin\Debug\netcoreapp2.1\InterviewChallenges.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.csprojAssemblyReference.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.AssemblyInfoInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.AssemblyInfo.cs
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.dll
+C:\DATA\WorkCode\Interview-Problem-Solution\InterviewChallenges\obj\Debug\netcoreapp2.1\InterviewChallenges.pdb

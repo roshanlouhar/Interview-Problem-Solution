@@ -4,5 +4,4 @@ C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug
 C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.csproj.CoreCompileInputs.cache
 C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.exe
 C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.pdb
-C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug\CSharpDataStructureLibrary.exe.CodeAnalysisLog.xml
-C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\bin\Debug\CSharpDataStructureLibrary.exe.lastcodeanalysissucceeded
+C:\DATA\WorkCode\Interview-Problem-Solution\CSharpDataStructureLibrary\obj\Debug\CSharpDataStructureLibrary.csprojAssemblyReference.cache
