@@ -1,0 +1,11 @@
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\bin\Debug\netcoreapp2.1\Daily-Coding-Problem.deps.json
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\bin\Debug\netcoreapp2.1\Daily-Coding-Problem.runtimeconfig.json
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\bin\Debug\netcoreapp2.1\Daily-Coding-Problem.runtimeconfig.dev.json
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\bin\Debug\netcoreapp2.1\Daily-Coding-Problem.dll
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\bin\Debug\netcoreapp2.1\Daily-Coding-Problem.pdb
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.csprojAssemblyReference.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.csproj.CoreCompileInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.AssemblyInfoInputs.cache
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.AssemblyInfo.cs
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.dll
+C:\DATA\WorkCode\Interview-Problem-Solution\Daily-Coding-Problem\obj\Debug\netcoreapp2.1\Daily-Coding-Problem.pdb
