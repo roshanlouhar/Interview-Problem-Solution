@@ -1,13 +1,19 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Daily_Coding_Problem
 {
+    class Interval
+    {
+        public int Buy { get; set; }
+        public int Sell { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
             #region Given a list of numbers, return whether any two sums to k.
             //string Str = "10 15 3 7";
             //int[] array = Array.ConvertAll(Str.Split(' '), int.Parse);
@@ -21,12 +27,114 @@ namespace Daily_Coding_Problem
             //FindProductArrayExceptSelf(array);
             #endregion
 
+            #region // This function finds the buy sell schedule for maximum profit
+            // stock prices on consecutive days
+            //var price = new int[] { 100, 180, 260, 310, 40, 535, 695 };
+            // function call
+            //StockBuySell(price);
+            #endregion
 
+            #region Given a list of numbers, return whether any two sums to k.
+            int k = 100;
+            int result = FindSumOfPrimeNumbers(k);
+            #endregion
 
 
 
 
             Console.ReadKey();
+        }
+
+        private static int FindSumOfPrimeNumbers(int k)
+        {
+            int sum = 1;
+            int ctr = 0, n = 0;
+
+            while (ctr < 100)
+            {
+                n++;
+                if (n % 2 != 0)
+                {
+                    // check if the number is even
+                    if (Is_Prime(n))
+                    {
+                        sum += n;
+                    }
+                }
+                ctr++;
+            }
+
+
+            //int sum = 0;
+            //bool[] tempArr = new bool[k + 1];
+            //for (int i = 2; i * i <= k; i++)
+            //{
+            //    if (tempArr[i] == false)
+            //    {
+            //        for (int j = i * 2; j <= k;)
+            //        {
+            //            tempArr[j] = true;
+            //            j += i;
+            //        }
+            //    }
+            //}
+            //for (int p = 2; p <= k; p++)
+            //    if (!tempArr[p])
+            //        sum += p;
+
+            return sum;
+        }
+
+        private static bool Is_Prime(int n)
+        {
+            for (int i = 3; i * i <= n; i += 2)
+            {
+                if (n % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        private static void StockBuySell(int[] price)
+        {
+            // Prices must be given for at least two days
+            if (price.Length == 1)
+                return;
+
+            // solution array
+            var sol = new List<Interval>();
+
+            var buyIndex = -1;
+
+            for (int i = 0; i < price.Length - 1; i++)
+            {
+                if (buyIndex < 0)
+                {
+                    if (price[i] <= price[i + 1])
+                        buyIndex = i;
+                }
+                else
+                {
+                    if (price[i] > price[i + 1] || i + 1 == price.Length - 1)
+                    {
+                        sol.Add(new Interval { Buy = buyIndex, Sell = i });
+                        buyIndex = -1;
+                    }
+                }
+            }
+
+            // print solution
+            if (sol.Count == 0)
+                Console.WriteLine("There is no day when buying the stock "
+                + "will make profit");
+            else
+                for (int j = 0; j < sol.Count; j++)
+                    Console.WriteLine("Buy on day: " + sol[j].Buy
+                    + " "
+                    + "Sell on day : " + sol[j].Sell);
+
         }
 
         private static void FindProductArrayExceptSelf(int[] array)
@@ -102,4 +210,6 @@ namespace Daily_Coding_Problem
             return result;
         }
     }
+
+
 }
